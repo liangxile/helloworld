@@ -1,0 +1,14 @@
+{
+    "name": "liangxile/hello",
+    "description": "this is a  test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liangxile",
+            "email": "4044508646@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
